@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Edu, a 29-year-old Argentinian lover of video games and technology. Last year (2022), I discovered my passion for programming and got fully certified as a web developer. I want to share with you my skills.
+
 <!--
 **EduHz/EduHz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
