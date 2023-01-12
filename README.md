@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I'm Edu, a 29-year-old Argentinian lover of video games and technology. Last year (2022), I discovered my passion for programming and got fully certified as a web developer. I want to share with you my skills.
+<img src="https://github.com/BryanCPineda/BryanCPineda/blob/main/svg.svg" alt="hello world"/>
+
+<h3 align="center">I'm Edu, a 29-year-old Argentinian lover of video games and technology. Last year (2022), I discovered my passion for programming and got fully certified as a web developer. I want to share with you my skills.</h3>
 
 <!--
 **EduHz/EduHz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
