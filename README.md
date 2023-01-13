@@ -20,8 +20,8 @@ const aboutMe = {
 };
 ```
 
-- 🔭 I’m currently working on Insurance producer and Digital Marketer
-- 🌱 I’m currently learning Python
+- 🔭 I am currently working on Insurance producer and Digital Marketer
+- 🌱 I am learning python
 - 💬 Ask me about **JavaScript, React, Redux, HTML, CSS, Node JS, Express, PostgreSQL, Tailwind, TypeScript, Sequelize**
 - 📄 I currently work as an insurance producer and in a digital marketing project.
   I study and practice programming every day because I love it. My hobby is playing soccer on weekends
