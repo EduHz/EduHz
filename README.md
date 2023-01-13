@@ -1,6 +1,6 @@
 <img src="https://github.com/BryanCPineda/BryanCPineda/blob/main/svg.svg" alt="hello world"/>
 
-<h3 align="center">I'm Edu, a 29-year-old Argentinian lover of video games and technology. Last year (2022), I discovered my passion for programming and got fully certified as a web developer. I want to share with you my skills.</h3>
+<h3 align="center">I'm Edu, a 29-year-old Argentinian lover of Photography and Technology. Last year (2022), I discovered my passion for programming and got fully certified as a web developer. I want to share with you my skills.</h3>
 
 ```javascript
 const aboutMe = {
@@ -23,8 +23,10 @@ const aboutMe = {
 - 🔭 I am currently working on Insurance producer and Digital Marketer
 - 🌱 I am learning python
 - 💬 Ask me about **JavaScript, React, Redux, HTML, CSS, Node JS, Express, PostgreSQL, Tailwind, TypeScript, Sequelize**
-- 📄 I currently work as an insurance producer and in a digital marketing project.
-  I study and practice programming every day because I love it. My hobby is playing soccer on weekends
+- 📄 I work as : 
+     -Telemarketer for VISA
+     -Selling credit cards for Sencosud group
+     -Insurance producer for Sancor
 - 📫 How to reach me: eduhzprogramador@gmail.com
 - 🥑 Fun fact: Avocados are a fruit, not a vegetable
 
