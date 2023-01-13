@@ -24,13 +24,14 @@ const aboutMe = {
 - 🌱 I’m currently learning Python
 - 💬 Ask me about **JavaScript, React, Redux, HTML, CSS, Node JS, Express, PostgreSQL, Tailwind, TypeScript, Sequelize**
 - 📄 I currently work as an insurance producer and in a digital marketing project.
-  I study and practice programming every day because I love it. In my free time I go to the gym and on weekends I play soccer.
+  I study and practice programming every day because I love it. My hobby is playing soccer on weekends
 - 📫 How to reach me: eduhzprogramador@gmail.com
-- ⚡ Fun fact: Avocados are a fruit, not a vegetable 🥑
+- 🥑 Fun fact: Avocados are a fruit, not a vegetable 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/edu-hz/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/edu-hz/" height="30" width="40" /></a>
+<a href="https://wa.me/5491123989941" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://wa.me/5491123989941" height="30" width="40" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="40" height="40"/> </a> 
