@@ -16,11 +16,11 @@ const aboutMe = {
     },
     databases: ["MongoDB", "PostgreSQL"],
   },
-  currentOccupation: ["Insurance producer, Digital Marketer"],
+  currentOccupation: ["Insurance producer"],
 };
 ```
 
-- 🔭 I am currently working on Insurance producer and Digital Marketer
+- 🔭 I am currently working on Insurance producer
 - 🌱 I am learning python
 - 💬 Ask me about **JavaScript, React, Redux, HTML, CSS, Node JS, Express, PostgreSQL, Tailwind, TypeScript, Sequelize**
 - 📄 I work as : 
