@@ -32,7 +32,7 @@ const aboutMe = {
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://icons8.com/icon/qNUNvR9aEWql/linkedin-circled" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/edu-hz/" height="40" width="40" /></a>
+<a href="https://icons8.com/icon/qNUNvR9aEWql/linkedin-circled" target="_blank"><img align="center" src="https://icons8.com/icon/qNUNvR9aEWql/linkedin-circled" alt="https://www.linkedin.com/in/edu-hz/" height="40" width="40" /></a>
 <a href="https://icons8.com/icon/30448/whatsapp" target="_blank"><img align="center" src="icon/whats.png" alt="https://wa.me/5491123989941" height="40" width="40" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
