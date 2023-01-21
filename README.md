@@ -32,8 +32,8 @@ const aboutMe = {
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://icons8.com/icon/qNUNvR9aEWql/linkedin-circled" target="_blank"><img align="center" src="https://img.icons8.com/fluency/96/null/linkedin-circled.png" height="40" width="40" /></a>
-<a href="https://icons8.com/icon/30448/whatsapp" target="_blank"><img align="center" src="https://img.icons8.com/office/80/null/whatsapp--v1.png" alt="https://wa.me/5491123989941" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/edu-hz/" target="_blank"><img align="center" src="https://img.icons8.com/fluency/96/null/linkedin-circled.png" height="40" width="40" /></a>
+<a href="https://wa.me/541123989941" target="_blank"><img align="center" src="https://img.icons8.com/office/80/null/whatsapp--v1.png" alt="https://wa.me/5491123989941" height="40" width="40" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="40" height="40"/> </a> 
