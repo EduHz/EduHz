@@ -2,6 +2,8 @@
 
 <h3 align="center">I'm Edu, a 29-year-old Argentinian lover of Photography and Technology. Last year (2022), I discovered my passion for programming and got fully certified as a web developer. I want to share with you my skills.</h3>
 
+You can visit my porfolio here : [Porfolio Edu Hz](https://porfolio-jet.vercel.app/)
+
 ```javascript
 const aboutMe = {
   pronouns: "he" | "him",
