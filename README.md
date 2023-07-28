@@ -1,6 +1,6 @@
 <img src="https://github.com/BryanCPineda/BryanCPineda/blob/main/svg.svg" alt="hello world"/>
 
-<h3 align="center">I'm Edu, a 29-year-old Argentinian lover of Photography and Technology. Last year (2022), I discovered my passion for programming and got fully certified as a web developer. I want to share with you my skills.</h3>
+<h3 align="center">I'm Edu, a 29-year-old Argentinian who loves photography and technology. In 2022, I discovered my passion for programming and became a fully certified web developer. I'm excited to share my skills with you.</h3>
 
 You can visit my porfolio here : [Edu Hz](https://porfolio-jet.vercel.app/)
 
@@ -29,7 +29,7 @@ const aboutMe = {
      -Telemarketer for VISA
      -Selling credit cards for Sencosud group
      -Insurance producer for Sancor
-- 📫 How to reach me: eduardogabrielhz@hotmail.com
+- 📫 How to reach me: eduhzprogramador@gmail.com
 - 🥑 Fun fact: Avocados are a fruit, not a vegetable
 
 <h3 align="left">Connect with me:</h3>
