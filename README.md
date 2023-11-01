@@ -29,7 +29,7 @@ const aboutMe = {
      -Telemarketer for VISA
      -Selling credit cards for Sencosud group
      -Insurance producer for Sancor
-- 📫 How to reach me: eduardogabrielhz@hotmail.com
+- 📫 How to reach me: eduhzprogramador@gmail.com
 - 🥑 Fun fact: Avocados are a fruit, not a vegetable
 
 <h3 align="left">Connect with me:</h3>
