@@ -7,16 +7,17 @@ You can visit my porfolio here : [Edu Hz](https://porfolio-jet.vercel.app/)
 ```javascript
 const aboutMe = {
   pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS, Java],
   technologies: {
     frontEnd: {
-      js: ["React", "Redux"],
-      css: ["Bootstrap", "Tailwind"],
+      languages: ["HTML", "CSS"], // Aquí podrías poner HTML y CSS
+      frameworks: ["React", "Redux"],
+      cssFrameworks: ["Bootstrap", "Tailwind"],
     },
     backEnd: {
-      js: ["Node", "Express"],
+      languages: ["JavaScript", "PHP"],
+      frameworks: ["Node", "Express"],
     },
-    databases: ["MongoDB", "PostgreSQL"],
+    databases: ["MongoDB", "PostgreSQL", "SQL"],
   },
   currentOccupation: ["Freelancer developer"],
 };
