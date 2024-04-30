@@ -6,30 +6,31 @@ You can visit my porfolio here : [Edu Hz](https://porfolio-jet.vercel.app/)
 
 ```javascript
 const aboutMe = {
-  pronouns: "he" | "him",
+  pronouns: "he/him",
   technologies: {
     frontEnd: {
-      languages: ["HTML", "CSS"], // Aquí podrías poner HTML y CSS
+      languages: ["HTML", "CSS"],
       frameworks: ["React", "Redux"],
       cssFrameworks: ["Bootstrap", "Tailwind"],
     },
     backEnd: {
       languages: ["JavaScript", "PHP"],
-      frameworks: ["Node", "Express"],
+      frameworks: ["Node.js", "Express"],
     },
-    databases: ["MongoDB", "PostgreSQL", "SQL"],
+    databases: ["MongoDB", "PostgreSQL", "MySQL"],
   },
-  currentOccupation: ["Freelancer developer"],
+  currentOccupation: ["Freelance developer"],
 };
 ```
 
 - 🔭 I am currently working on Freelancer developer
 - 🌱 I am learning python
-- 💬 Ask me about **JavaScript, React, Redux, HTML, CSS, Node JS, Express, PostgreSQL, Tailwind, TypeScript, Sequelize**
+- 💬 Ask me about **Html, Css, JavaScript, Php, MySql, Tailwind, Express**
 - 📄 I work as : 
      -Telemarketer for VISA
      -Selling credit cards for Sencosud group
      -Insurance producer for Sancor
+     -Web Developer for BestHungryGator.com
 - 📫 How to reach me: eduhzprogramador@gmail.com
 - 🥑 Fun fact: Avocados are a fruit, not a vegetable
 
