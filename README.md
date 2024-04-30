@@ -1,8 +1,8 @@
 <img src="https://github.com/BryanCPineda/BryanCPineda/blob/main/svg.svg" alt="hello world"/>
 
-<h3 align="center">I'm Edu, a 30-year-old Argentinian with a passion for programming and technology. Having discovered my love for coding, I successfully earned my certification as a web developer. Eager to share my skills and knowledge with you, let's embark on this exciting journey together.</h3>
+<h3 align="center">I'm Edu, a 30-year-old Argentinian with a passion for programming and technology. Having discovered my love for coding, I successfully earned my certification as a web developer in 2022. Eager to share my skills and knowledge with you, let's embark on this exciting journey together.</h3>
 
-You can visit my porfolio here : [Edu Hz](https://porfolio-jet.vercel.app/)
+You can visit my Porfolio here : [Edu Hz](https://porfolio-jet.vercel.app/)
 
 ```javascript
 const aboutMe = {
@@ -23,10 +23,10 @@ const aboutMe = {
 };
 ```
 
-- 🔭 I am currently working on Freelancer developer
-- 🌱 I am learning python
-- 💬 Ask me about **Html, Css, JavaScript, Php, MySql, Tailwind, Express**
-- 📄 I work as :
+- 🔭 I am currently working as a freelance developer
+- 🌱 I am currently teaching HTML, CSS, PHP, and SQL at a private institution
+- 💬 Ask me about **HTML, CSS, JavaScript, Php, MySql, Tailwind, Express**
+- 📄 I have worked as: :
   - Telemarketer for VISA
   - Selling credit cards for Sencosud group
   - Insurance producer for Sancor
