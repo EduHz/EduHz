@@ -27,10 +27,10 @@ const aboutMe = {
 - 🌱 I am learning python
 - 💬 Ask me about **Html, Css, JavaScript, Php, MySql, Tailwind, Express**
 - 📄 I work as : 
-     -Telemarketer for VISA
-     -Selling credit cards for Sencosud group
-     -Insurance producer for Sancor
-     -Web Developer for BestHungryGator.com
+     - Telemarketer for VISA
+     - Selling credit cards for Sencosud group
+     - Insurance producer for Sancor
+     - Web Developer for BestHungryGator.com
 - 📫 How to reach me: eduhzprogramador@gmail.com
 - 🥑 Fun fact: Avocados are a fruit, not a vegetable
 
