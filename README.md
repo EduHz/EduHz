@@ -31,6 +31,7 @@ const aboutMe = {
   - Selling credit cards for Sencosud group
   - Insurance producer for Sancor
   - Web Developer for BestHungryGator.com
+  - Web Developer for Besthomeresourcesllc.com
 - 📫 How to reach me: eduhzprogramador@gmail.com
 - 🥑 Fun fact: Avocados are a fruit, not a vegetable
 
