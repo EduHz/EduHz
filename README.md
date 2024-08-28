@@ -6,10 +6,9 @@ You can visit my Porfolio here : [Edu Hz](https://porfolio-jet.vercel.app/)
 
 ```javascript
 const aboutMe = {
-  pronouns: "he/him",
   technologies: {
     frontEnd: {
-      languages: ["HTML", "CSS"],
+      languages: ["HTML", "CSS", "JS"],
       frameworks: ["React", "Redux"],
       cssFrameworks: ["Bootstrap", "Tailwind"],
     },
